@@ -1,6 +1,9 @@
 # frtBlog
-## This is my final Future Ready talent project
-azure link :https://mango-grass-009dc8210.1.azurestaticapps.net
+# This is my final Future Ready talent project by Poovandran G
+My Project Gives Different types of Food Offerd,It Also shows the images of Food that they Have....!
+
+
+# azure link :https://mango-grass-009dc8210.1.azurestaticapps.net
 
 # screenshots
 ## Home
