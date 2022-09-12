@@ -1,7 +1,8 @@
 # frtBlog
-This is my final Future Ready talent project: https://mango-grass-009dc8210.1.azurestaticapps.net
+## This is my final Future Ready talent project
+azure link :https://mango-grass-009dc8210.1.azurestaticapps.net
 
-## screenshots
+# screenshots
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/110174174/189711185-cc274616-e1e9-4679-baa6-cd811a2cf1f7.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/110174174/189711194-7ffca3e8-ce63-4b2d-b740-fd327991d3eb.png)
@@ -19,4 +20,4 @@ This is my final Future Ready talent project: https://mango-grass-009dc8210.1.az
 
 # Description
 
-It is Very Use full in Hotels, Restaurants,Online Food Buying....Ect....,Sprouted Kitchen is one of the best cooking blogs out there. It is a gorgeous website known for its amazing design and quality content. The site is wonderful to look at, and you'll be happy to see that it offers a cooking club where busy people can learn how to cook delicious food quickly.
+## It is Very Use full in Hotels, Restaurants,Online Food Buying....Ect....,Sprouted Kitchen is one of the best cooking blogs out there. It is a gorgeous website known for its amazing design and quality content. The site is wonderful to look at, and you'll be happy to see that it offers a cooking club where busy people can learn how to cook delicious food quickly.
