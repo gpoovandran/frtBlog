@@ -3,11 +3,17 @@
 azure link :https://mango-grass-009dc8210.1.azurestaticapps.net
 
 # screenshots
-
+## Home
 ![Screenshot (11)](https://user-images.githubusercontent.com/110174174/189711185-cc274616-e1e9-4679-baa6-cd811a2cf1f7.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/110174174/189711194-7ffca3e8-ce63-4b2d-b740-fd327991d3eb.png)
+
+## about
 ![Screenshot (13)](https://user-images.githubusercontent.com/110174174/189711201-ac939697-8e57-4b3e-ad94-80c7d9a28729.png)
+
+## service
 ![Screenshot (14)](https://user-images.githubusercontent.com/110174174/189711221-f3527cc4-2278-41eb-b1b3-5ab94c2b821f.png)
+
+# contact
 ![Screenshot (15)](https://user-images.githubusercontent.com/110174174/189711231-ba41985a-c788-4b20-9fbf-f9b027d79040.png)
 
 
