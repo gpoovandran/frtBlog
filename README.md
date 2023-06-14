@@ -1,4 +1,4 @@
-# frtBlog
+# Final Blog
 # This is my final Future Ready talent project by Poovandran G
 My Project Gives Different types of Food Offerd,It Also shows the images of Food that they Have....!
 
